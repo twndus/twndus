@@ -1,6 +1,6 @@
-I'm [Juyeon Lee](https://data-scient2st.tistory.com/page/Who-am-I)
+I'm **[Juyeon Lee](https://data-scient2st.tistory.com/page/Who-am-I)**
 
-A.I. research engineer of **[ROWAN](https://www.rowan.kr)**. <br>
+A.I. research engineer of [ROWAN](https://www.rowan.kr). <br>
 I'm currently learning about deep learning for recommendation systems, <br>
 I'm also highly interested in applications of ChatGPT and Causality ✨
 

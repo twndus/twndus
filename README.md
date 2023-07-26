@@ -1,4 +1,4 @@
-I'm **[Juyeon Lee](https://data-scient2st.tistory.com/page/Who-am-I)**
+I'm **[Juyeon Lee](https://leejuyeon.notion.site/leejuyeon/Juyeon-Lee-fdef89c0a02241949e3a3110791d8243)**
 
 A.I. research engineer of [ROWAN](https://www.rowan.kr). <br>
 I'm currently learning about deep learning for recommendation systems, <br>

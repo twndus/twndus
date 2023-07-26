@@ -1,4 +1,14 @@
-### Hi there 👋
+I'm [Juyeon Lee](https://data-scient2st.tistory.com/page/Who-am-I)
+
+A.I. research engineer of **[ROWAN](https://www.rowan.kr)**. <br>
+I'm currently learning about deep learning for recommendation systems, <br>
+I'm also highly interested in applications of ChatGPT and Causality ✨
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://data-scient2st.tistory.com)	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jylee19/)](https://www.linkedin.com/in/jylee19/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twndus1362@gmail.com)](mailto:twndus1362@gmail.com)  
+
+
 
 <!--
 **twndus/twndus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

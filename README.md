@@ -1,6 +1,6 @@
 I'm **[Juyeon Lee](https://leejuyeon.notion.site/leejuyeon/Juyeon-Lee-fdef89c0a02241949e3a3110791d8243)**
 
-A.I. research engineer ✨
+A.I. research engineer ✨ <br>
 I'm currently learning about deep learning for recommendation systems,
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://data-scient2st.tistory.com)	

@@ -1,8 +1,7 @@
 I'm **[Juyeon Lee](https://leejuyeon.notion.site/leejuyeon/Juyeon-Lee-fdef89c0a02241949e3a3110791d8243)**
 
-A.I. research engineer of [ROWAN](https://www.rowan.kr). <br>
-I'm currently learning about deep learning for recommendation systems, <br>
-I'm also highly interested in applications of ChatGPT and Causality ✨
+A.I. research engineer ✨
+I'm currently learning about deep learning for recommendation systems,
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://data-scient2st.tistory.com)	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jylee19/)](https://www.linkedin.com/in/jylee19/)

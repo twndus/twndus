@@ -1,9 +1,8 @@
-I'm **[Juyeon Lee](https://leejuyeon.notion.site/leejuyeon/Juyeon-Lee-fdef89c0a02241949e3a3110791d8243)**
+I'm **Juyeon Lee**
 
 A.I. research engineer ✨ <br>
-I'm currently learning about deep learning for recommendation systems,
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://data-scient2st.tistory.com)	
+I'm currently interested in deep learning-based personalized recommendation systems, search, and targeting
+	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jylee19/)](https://www.linkedin.com/in/jylee19/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twndus1362@gmail.com)](mailto:twndus1362@gmail.com)  
 

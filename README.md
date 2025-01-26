@@ -1,7 +1,7 @@
 I'm **Juyeon Lee**
 
-A.I. research engineer ✨ <br>
-I'm currently interested in deep learning-based personalized recommendation systems, search, and targeting
+Machine Learning Engineer ✨ <br>
+I'm currently interested in RL-based personalization.
 	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jylee19/)](https://www.linkedin.com/in/jylee19/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:twndus1362@gmail.com)](mailto:twndus1362@gmail.com)  
